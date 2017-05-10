@@ -1,3 +1,6 @@
+# Book Gists
+Books summaries for All and by All
+
 # Contributing to Book Gists
 
 We welcome contributions to this project.  Contributions can take many forms depending
