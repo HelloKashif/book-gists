@@ -10,3 +10,6 @@ List out the biggest ideas that one can get out of this book.
 
 Summarize the book here.
 
+# Related Books
+
+Any relevant/related book links/list
