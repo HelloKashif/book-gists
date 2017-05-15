@@ -37,9 +37,9 @@ Later in the book Peter goes into detail on how to:
 28. Bureaucracy is an obstacle to conquer with persistence, confidence and a bulldozer when necessary.
 
 # Summary
+Bold unfolds in three parts. Part One focuses on the exponential technologies that are disrupting today’s Fortune 500 companies and enabling upstart entrepreneurs to go from "I’ve got an idea" to "I run a billion-dollar company" far faster than ever before. The authors provide exceptional insight into the power of 3D printing, artificial intelligence, robotics, networks and sensors, and synthetic biology. Part Two of the book focuses on the Psychology of Bold, drawing on insights from billionaire entrepreneurs Larry Page, Elon Musk, Richard Branson, and Jeff Bezos. In addition, Diamandis reveals his entrepreneurial secrets garnered from building fifteen companies, including such audacious ventures as Singularity University, XPRIZE, Planetary Resources, and Human Longevity, Inc. Finally, Bold closes with a look at the best practices that allow anyone to leverage today’s hyper-connected crowd like never before. Here, the authors teach how to design and use incentive competitions, launch million-dollar crowdfunding campaigns to tap into ten’s of billions of dollars of capital, and finally how to build communities—armies of exponentially enabled individuals willing and able to help today’s entrepreneurs make their boldest dreams come true.
 
-Summarize the book here.
+Bold is both a manifesto and a manual. It is today’s exponential entrepreneur’s go-to resource on the use of emerging technologies, thinking at scale, and the awesome power of crowd-powered tools.
 
 # Related Books
 
-Any relevant/related book links/list
